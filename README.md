@@ -5,7 +5,7 @@ Now the third time I uploaded this into github, this time through the Desktop ap
 
 <img src="https://github.com/GianPDev/SFMLproj_0001/blob/master/Screenshots/Screenshot_51.png" height=480>
 
-Code below allows the shape to move using keyboard.
+Note to self: Code below allows the shape to move using keyboard.
 
 ```cpp
 if(sf::Keyboard::isKeyPressed(sf::Keyboard::F)) //Checks if keystroke is pressed.
